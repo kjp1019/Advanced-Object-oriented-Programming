@@ -12,7 +12,7 @@ package hw1_1;
 //***************************
 public class Main {
 	public static void main(String[] args) {
-	        System.out.println("과제: hw1_1 인터페이스 / 작성자: 김진필 ");
+	        System.out.println("과제: hw1_1 인터페이스 / 작성자: 김진필");
 	        System.out.println();
 
 	        // (1) 은행계좌 객체 생성
